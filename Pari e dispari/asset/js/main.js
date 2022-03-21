@@ -42,9 +42,9 @@ do {
 
 
 // ANCHOR 4) Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
- function oddOrEven(x) {
+ function oddOrEven(y) {
 
-        if (x % 2 === 0) {
+        if (y % 2 === 0) {
             return "pari";
         } else {
             return "dispari";
